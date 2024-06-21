@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mgiqt (ENCRYPTED)
+- 👋 Hi, I’m @Mgiqt
 - 👀 I’m interested in Programming, Streaming
 - 🌱 I’m currently learning C++
-- 📫 reach me by discord: kefor
 <!---
 - ⚡ Fun fact: ...
 --->
